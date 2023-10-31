@@ -3,7 +3,7 @@ Real-time Finger Counting Application
 
 
 
-his application uses computer vision to detect and count the number of fingers held up in real-time using a webcam. By leveraging the Mediapipe, the application is able to accurately identify hand landmarks and ascertain the status (up or down) of each finger. Key features include:
+This application uses computer vision to detect and count the number of fingers held up in real-time using a webcam. By leveraging the Mediapipe, the application is able to accurately identify hand landmarks and ascertain the status (up or down) of each finger. Key features include:
 
 Hand Detection & Tracking: The application identifies hands within the webcam feed and overlays landmarks on them to show detected positions.
 
